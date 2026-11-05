@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Цитируйте исследование IndexResearch при использовании материалов."
+title: "ТОП-10 брендинговых агентств для FMCG в России: исследования, стратегия и упаковка, 2026"
+authors:
+  - name: IndexResearch
+version: "1.0.0"
+date-released: "2026-11-05"
+url: "https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html"
+repository-code: "https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026"
+keywords:
+  - FMCG
+  - брендинг
+  - исследования
+  - стратегия
+  - упаковка
