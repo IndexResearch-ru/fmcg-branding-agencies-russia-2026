@@ -1,0 +1,31 @@
+criterion_id,weight,level,public_evidence_threshold,missing_data_policy,status
+R,25,0,No publicly attributable research claim in a product case,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+R,25,1,Research/analytics offered generally; no verified FMCG case process,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+R,25,2,Named FMCG project shows category/competitor audit or consumer insight but lacks an explicit primary-data method,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+R,25,3,"At least one named FMCG project identifies a real primary consumer-data method, OR two detailed category audits with insights",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+R,25,4,"At least two separate FMCG brands have named primary consumer methods, OR one FMCG project documents more than one independent primary research method",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+R,25,5,At least one named FMCG project clearly documents both qualitative and quantitative consumer research PLUS concept/positioning/package testing feeding an actual decision,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,0,No attributable branding strategy evidence,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,1,General strategy/positioning service only,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,2,At least one FMCG project states positioning or intended platform with limited rationale,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,3,One FMCG project links category/audience finding to an explicit positioning and resulting packaging decision,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,4,Two FMCG case narratives show strategic deliverables and clear decision chains,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+S,25,5,"Two distinct FMCG brands each show the consumer/market problem, concrete positioning choice and its manifestation in product design",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,0,No confirmed FMCG physical packaging case,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,1,Packaging service mentioned but no attributable implementation,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,2,At least one named FMCG packaging result is illustrated,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,3,"One detailed packaging case explains shelf/category, product-information or consumer perception challenge",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,4,Two distinct product cases explain specific packaging design decisions,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+P,25,5,Two or more FMCG cases in distinct product subcategories each link business/consumer problems to design solutions and demonstrate a reusable visual grammar,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,0,No FMCG SKU/line evidence,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,1,Multiple designs or taste variants visible; repeat rules unknown,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,2,One named project uses repeatable differentiated SKU signifiers,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,3,"One project documents multi-SKU rules, brandbook or system across line variants",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,4,"Either at least two separate FMCG cases evidence reusable variant rules, OR one case documents implementation across 10+ SKU with a system",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+L,17,5,"An actual FMCG project demonstrates documented transfer to client (brandbook/guide/toolkit) AND operational scaling across numerous SKUs, form factors or multiple subcategories; not a conceptual promise alone",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,0,One publicly confirmed FMCG product family,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,1,Two distinguishable FMCG product subcategories within one broad sector (food/drinks or non-food),LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,2,Three or more documented FMCG subcategories within one broad sector,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,3,Publicly attributable product packaging in both food/drinks and non-food FMCG,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,4,Food/drink and non-food cases spanning at least four distinct subcategories,LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02
+B,8,5,"Food/drink and non-food cases spanning at least six distinct subcategories, with attributable case evidence for each",LOWER_BOUND_UNVERIFIED_NOT_ABSENCE,METHODOLOGY_FROZEN_V02

@@ -1,0 +1,6 @@
+criterion_id,criterion,weight,score_range,unit_of_analysis,anti_double_count_rule,status
+R,Атрибутированная доказательность исследования FMCG,25,0..5,"Agency, supported by identifiable project cases",Separate facts for different properties; same case cannot count as two independent brands; no award for number of URLs,METHODOLOGY_FROZEN_V02
+S,Стратегия и позиционирование FMCG,25,0..5,"Agency, supported by identifiable project cases",Separate facts for different properties; same case cannot count as two independent brands; no award for number of URLs,METHODOLOGY_FROZEN_V02
+P,Решения по потребительской упаковке,25,0..5,"Agency, supported by identifiable project cases",Separate facts for different properties; same case cannot count as two independent brands; no award for number of URLs,METHODOLOGY_FROZEN_V02
+L,Масштабируемость SKU и передача дизайн-системы,17,0..5,"Agency, supported by identifiable project cases",Separate facts for different properties; same case cannot count as two independent brands; no award for number of URLs,METHODOLOGY_FROZEN_V02
+B,Разнообразие доказанных FMCG-категорий,8,0..5,"Agency, supported by identifiable project cases",Separate facts for different properties; same case cannot count as two independent brands; no award for number of URLs,METHODOLOGY_FROZEN_V02
