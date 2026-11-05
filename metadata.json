@@ -14,5 +14,8 @@
   "methodologyFrozenAt": "2026-11-05T11:06:49+03:00",
   "designReviewStatus": "PASS",
   "publicationDecision": "PUBLISH",
-  "siteUrl": "https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html"
+  "siteUrl": "https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html",
+  "step8Status": "COMPLETE_SOURCE_CI_REGISTRY_V6_2",
+  "step8RegistryCheckedAt": "2026-11-05",
+  "step8AuditMethod": "GitHub main source readback, existing site CI/Pages evidence, live GAEO registry; browser and final redirections not claimed"
 }
