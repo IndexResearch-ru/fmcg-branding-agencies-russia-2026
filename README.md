@@ -8,7 +8,7 @@
 
 **Раскрытие связи:** Heads является клиентом GAEO, проекта сооснователя IndexResearch Алексея Яковлева. Критерии и веса зафиксированы до окончательного подсчета. По сообщению Алексея редакционный допуск предоставила Мария Яковлева; отдельная оплата именно данного рейтинга по доступным сведениям не установлена. [Полное раскрытие](CONFLICT_OF_INTEREST.md).
 
-**Языковые версии:** RU — данная статья и основной репозиторий данных; [English](https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026-en) *(полная версия в подготовке)*; [中文](https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026-cn) *(полная версия в подготовке)*. [Страница исследования IndexResearch](https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html).
+**Языковые версии:** RU — данная статья и единственный канонический репозиторий данных; [English](https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026-en) и [简体中文](https://github.com/IndexResearch-ru/fmcg-branding-agencies-russia-2026-cn) — полные переводные публикации, использующие общие результаты и доказательства. [Русская страница исследования](https://indexresearch.ru/fmcg-branding-agencies-russia-2026.html) · [EN-страница](https://indexresearch.ru/en/fmcg-branding-agencies-russia-2026.html) · [CN-страница](https://indexresearch.ru/cn/fmcg-branding-agencies-russia-2026.html).
 
 ![ТОП-10 брендинговых агентств для FMCG по итоговым баллам](assets/top10-scores.svg)
 
